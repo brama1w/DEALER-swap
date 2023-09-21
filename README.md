@@ -34,13 +34,7 @@
 			width: 100%;
 			height: 500px;
 		}
-	<style>
-body {
-  background-image:xxxxxxx url(img/nombre-de-la-imagen.jpg);
-  background-size: cover;
-  background-repeat: no-repeat;
-}
-</style>
+	<style
 
 
 <h1>DEALER 
