@@ -1,8 +1,7 @@
-
 <html>
 <head>
 
-	
+	<title>>DEALER-swap-</title>
 	<style>
 		body {
 			font-family: Arial, sans-serif;
@@ -34,7 +33,13 @@
 			width: 100%;
 			height: 500px;
 		}
-	<style
+	<style>
+body {
+  background-image:xxxxxxx url(img/nombre-de-la-imagen.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+</style>
 
 
 <h1>DEALER 
@@ -53,9 +58,6 @@ SWAP
 	</div>
 </body>
 </html>
-		
-		
-		
 
 		
 		
