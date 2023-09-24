@@ -1,7 +1,6 @@
 <html>
 <head>
 
-	<title>>DEALER-swap-</title>
 	<style>
 		body {
 			font-family: Arial, sans-serif;
