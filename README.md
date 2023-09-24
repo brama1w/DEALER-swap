@@ -56,8 +56,7 @@ SWAP
 			<iframe src="https://metamask.io" frameborder="0"></iframe>
 		</div>
 	</div>
-</body>
-</html>
+
 	
 		
 
