@@ -41,9 +41,13 @@ body {
 </style>
 
 
-<h1>DEALER 
-<br>
-SWAP
+<h1>
+	<p class="oval-shadow">DEALER SWAP</p>
+	
+	<br>
+ Join us, exchange money, for BRM-BRAMA or USDT tokens, to access the events
+- Once you have the tokens, you must send them to this address, then send the hash of the transaction to brama.brmlphaface@gmail.com
+	
 </h1>
 	<div id="content">
 		<div id="BRM-BRAMA">
