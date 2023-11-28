@@ -49,7 +49,7 @@ body {
  <Br>
 - Once you have the tokens, you must send them to this address "0xaDA3244Bd4b88Dd3cb38243dD674239267e98caB", the next thing is send the hash of the transaction to brama.brmalphaface@gmail.com
  <br>
-- Preventa privada "visionarios atrevidos" ,"FOODS token" inicia- 01/01/2024 termina- 01/02/2024
+- Preventa privada "visionarios atrevidos" ,"FOODS token" inicia- 01/01/2024 termina- 02/01/2024
 
 	
 </h1>
