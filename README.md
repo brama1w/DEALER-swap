@@ -58,14 +58,16 @@ body {
 			<h2> SWAP BRM-BRAMA token- pancakeswap </h2>
 			<iframe src="https://pancakeswap.finance/swap?outputCurrency=0x2a771F074916b87F70C5371d1FB32A397e5680f4&inputCurrency=0x55d398326f99059fF775485246999027B3197955" frameborder="0"></iframe>
 		</div>
+	</div>
+		
 		<div id="metamask">
 			<h2>MetaMask</h2>
 			<iframe src="https://metamask.io" frameborder="0"></iframe>
 		</div>
 		<br>
-		<iframe width="100%height="1190"
-			frameborder="0"scrolling="no"src="https://coinbrain.com/embed/bnb-0x2a771f074916b87f70c5371d1fb32a397e5680f4?theme=dark&padding=16&chart=1&trades=1&ratio=0.54"></iframe>
-	</div>
+		
+   <iframe width=480 height="770" frameBorder="0" scrolling="no" src="https://coinbrain.com/coins/bnb-0x2a771f074916b87f70c5371d1fb32a397e5680f4/lite?theme=light&padding=16&currency=USD"></iframe>
+	
 
 	
 		
