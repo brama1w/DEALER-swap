@@ -66,7 +66,7 @@ body {
 		</div>
 		<br>
 		
-   <iframe width=480 height="770" frameBorder="0" scrolling="no" src="https://coinbrain.com/coins/bnb-0x2a771f074916b87f70c5371d1fb32a397e5680f4/lite?theme=light&padding=16&currency=USD"></iframe>
+  
 	
 
 	
