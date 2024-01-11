@@ -49,7 +49,7 @@ body {
  <Br>
 - Once you have the tokens, you must send them to this address "0xaDA3244Bd4b88Dd3cb38243dD674239267e98caB", the next thing is send the hash of the transaction to brama.brmalphaface@gmail.com
  <br>
-- Preventa privada "visionarios atrevidos" ,"FOODS token" inicia- 01/01/2024 termina- 02/01/2024
+- Preventa privada "visionarios digitales" ,"FOODS token" inicia- "PENDIENTE"
 
 	
 </h1>
@@ -62,6 +62,9 @@ body {
 			<h2>MetaMask</h2>
 			<iframe src="https://metamask.io" frameborder="0"></iframe>
 		</div>
+		<br>
+		<iframe width="100%height="1190"
+			frameborder="0"scrolling="no"src="https://coinbrain.com/embed/bnb-0x2a771f074916b87f70c5371d1fb32a397e5680f4?theme=dark&padding=16&chart=1&trades=1&ratio=0.54"></iframe>
 	</div>
 
 	
