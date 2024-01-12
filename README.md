@@ -49,7 +49,7 @@ body {
  <Br>
 - Once you have the tokens, you must send them to this address "0xaDA3244Bd4b88Dd3cb38243dD674239267e98caB", the next thing is send the hash of the transaction to brama.brmalphaface@gmail.com
  <br>
-- Preventa privada "visionarios digitales" ,"FOODS token" inicia- "PENDIENTE
+- Preventa privada "visionarios digitales" ,"FOODS token" inicia- "PENDIENTE"
 
 <br>
   <iframe width=480 height="770" frameBorder="0" scrolling="no" src="https://coinbrain.com/coins/bnb-0x2a771f074916b87f70c5371d1fb32a397e5680f4/lite?theme=light&padding=16&currency=USD"></iframe>
