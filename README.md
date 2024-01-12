@@ -24,7 +24,7 @@
 		}
 		
 		#metamask {
-			width:70%;
+			width:50%;
 			text-align: center;
 		}
 
