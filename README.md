@@ -35,6 +35,7 @@
 	<style>
 <h1>
 	<p class="oval-shadow">DEALER SWAP</p>
+	<body>
 <Br>
 La adopción de criptomonedas en transacciones inmobiliarias tiene el potencial de fomentar la accesibilidad y la inclusión globales. Los mercados inmobiliarios tradicionales suelen tener altas barreras de entrada, como requisitos de capital sustanciales y marcos legales complejos. Las criptomonedas pueden reducir estas barreras al permitir que personas de diferentes partes del mundo participen en inversiones inmobiliarias con relativa facilidad. Esta inclusión abre oportunidades para una gama más amplia de inversores, aumentando potencialmente la liquidez y la eficiencia del mercado.
 <Br>
@@ -57,6 +58,7 @@ La integración de criptomonedas en transacciones inmobiliarias ofrece numerosas
 			<h2>MetaMask</h2>
 			<iframe src="https://metamask.io" frameborder="0"></iframe>
    </div>
+   </body>
    </html>
    
    
