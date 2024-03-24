@@ -38,9 +38,7 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
 }
-</style>
-
-
+</st
 <h1>
 	<p class="oval-shadow">DEALER SWAP</p>
 	
