@@ -1,6 +1,5 @@
 <html>
-<head>
-	
+<head>	
 	<style>
 		body {
 			font-family: Arial, sans-serif;.
